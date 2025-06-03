@@ -40,6 +40,7 @@ function WaiverForm() {
             netlify-honeypot="bot-field"
             className="waiver-form"
             onSubmit={handleSubmit}
+            netlify
           >
             {/* Netlify hidden input */}
             <input type="hidden" name="form-name" value="bike-waiver" />
