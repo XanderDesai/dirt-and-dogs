@@ -1,5 +1,6 @@
 import React, {useState, useEffect} from 'react';
 import ReactMarkdown from 'react-markdown';
+import Footer from './Footer';
 
 function HomePage() {
   const [markdown, setMarkdown] = useState('');
@@ -10,6 +11,7 @@ function HomePage() {
   }, []);
 
   return (
+      <>
       <main className="container">
         <img src="/dirt-and-dogs-website.png" alt="Flyer" className="centered-image" />
         <article className="markdown">
@@ -27,6 +29,8 @@ function HomePage() {
           {/*</div>*/}
         </section>
       </main>
+      <Footer />
+      </>
   )
 }
 

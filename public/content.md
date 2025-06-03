@@ -27,7 +27,7 @@ A Michigan Recreation Passport is required to park at the trailhead. If you don'
 
 # Additional Information
 ## Cycling Safety
-All riders ride at their own risk. Out of an abundance of caution riders will be required to sign a waiver before officially participating in the event.
+All riders ride at their own risk. Out of an abundance of caution riders will be required to sign a waiver before officially participating in the event. [Link to waiver](/waiver)
 
 Helmets will be required for all riders. Additional protective gear such as gloves and sunglasses are also recommended.
 
