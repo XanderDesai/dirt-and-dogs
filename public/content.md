@@ -16,7 +16,7 @@ We meet the second Saturday of each month.
 
 The ride starts at 11:00am and the cookout starts at roughly 12:30pm when we return from the ride.
 
-Poor weather may cancel/reschedule the ride. Please check our [Facebook page](https://www.google.com) for the latest updates.
+Poor weather may cancel/reschedule the ride. Please check our [Facebook page](https://www.facebook.com/groups/1004415318545824) for the latest updates.
 
 ## Where
 We will meet at the mountain biking trailhead at Brighton Recreation Area.
@@ -35,4 +35,4 @@ Brighton Rec trails have no water stations so please come prepared with enough w
 
 ## Facebook Page
 We post each month's ride as a new event on our Facebook page. Please check there for the latest information especially with regards to time or location changes.
-[Facebook Page](https://www.google.com)
+[Facebook Page](https://www.facebook.com/groups/1004415318545824)
