@@ -12,9 +12,12 @@ This ride is open to all riders of all skill levels.
 Brighton Rec's 3 different trail options provide great options for Beginner (Appleton), Intermediate (Murray Lake), and Advanced (Torn Shirt) riders. If possible we'll have a group that goes out for each trail.
 
 ## When
-We meet the second Saturday of each month.
+Our 2026 Rides will be
+Saturday 7/18/2026
+Saturday 8/8/2026
+Saturday 9/12/2026
 
-The ride starts at 11:00am and the cookout starts at roughly 12:30pm when we return from the ride.
+The ride starts at 11:30am and the cookout starts at roughly 1:00pm when we return from the ride.
 
 Poor weather may cancel/reschedule the ride. Please check our [Facebook page](https://www.facebook.com/groups/1004415318545824) for the latest updates.
 
